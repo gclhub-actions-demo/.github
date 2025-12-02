@@ -1,0 +1,6 @@
+{
+  "name": "Python CI",
+  "description": "Build, test, and security scan Python applications. Includes Safety and Bandit for security analysis.",
+  "iconName": "python",
+  "categories": ["python", "ci", "security"]
+}

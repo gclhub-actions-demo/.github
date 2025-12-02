@@ -1,0 +1,6 @@
+{
+  "name": "Java CI",
+  "description": "Build, test, and security scan Java applications with Maven. Includes OWASP dependency vulnerability scanning.",
+  "iconName": "java",
+  "categories": ["java", "maven", "ci", "security"]
+}
