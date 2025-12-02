@@ -53,7 +53,7 @@ jobs:
 
     - name: OWASP Dependency Check
       run: |
-        mvn -B org.owasp:dependency-check-maven:check --file pom.xml || true
+        mvn -B org.owasp:dependency-check-maven:10.0.4:check --file pom.xml || true
 
     - name: Upload dependency check report
       uses: actions/upload-artifact@v4
