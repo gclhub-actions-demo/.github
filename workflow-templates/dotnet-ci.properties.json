@@ -1,0 +1,6 @@
+{
+  "name": ".NET CI",
+  "description": "Build, test, and security scan .NET applications. Includes code coverage and dependency vulnerability scanning.",
+  "iconName": "dotnet",
+  "categories": ["dotnet", "ci", "security"]
+}

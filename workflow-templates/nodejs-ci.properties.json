@@ -1,0 +1,6 @@
+{
+  "name": "Node.js CI",
+  "description": "Build, test, and security scan Node.js applications. Includes npm audit for dependency vulnerability scanning.",
+  "iconName": "nodejs",
+  "categories": ["nodejs", "npm", "ci", "security"]
+}
