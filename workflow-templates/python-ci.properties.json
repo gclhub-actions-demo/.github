@@ -1,6 +1,6 @@
 {
   "name": "Python CI",
-  "description": "Build, test, and security scan Python applications. Includes Safety and Bandit for security analysis.",
+  "description": "Optional Python starter: lint and test an application; upload coverage and security-analysis artifacts.",
   "iconName": "python",
   "categories": ["python", "ci", "security"]
 }

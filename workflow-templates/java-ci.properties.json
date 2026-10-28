@@ -1,6 +1,6 @@
 {
   "name": "Java CI",
-  "description": "Build, test, and security scan Java applications with Maven. Includes OWASP dependency vulnerability scanning.",
+  "description": "Optional Java starter: build and test with Maven; upload test and OWASP dependency-check artifacts.",
   "iconName": "java",
   "categories": ["java", "maven", "ci", "security"]
 }
